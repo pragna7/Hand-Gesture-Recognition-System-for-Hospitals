@@ -85,4 +85,4 @@ You can modify the gestures and their associated actions by editing the logic in
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## Author
-Pragna Seetha
+- Pragna Seetha
