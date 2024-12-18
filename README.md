@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a **Hand Gesture Recognition System** using **OpenCV** and **Python**. The system captures real-time video from a webcam, detects hand gestures, and maps them to specific actions such as calling a nurse, requesting water, or turning off lights. The project is particularly useful in hands-free environments such as healthcare or smart home control.
+This project implements a **Hand Gesture Recognition System** using **OpenCV** and **Python**. The system captures real-time video from a webcam, detects hand gestures, and maps them to specific actions such as calling a nurse, requesting water, or turning off lights. The project is particularly useful in hands-free environments such as healthcare or smart home control
 
 ## Features
 
